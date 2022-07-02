@@ -2,11 +2,11 @@
 GitHub repository for DIS_1 Team Demo Day MLT 2
 
 Anggota:
-Dicky Surya Putra              152236035101-860    MLT2B
-Nadhiar Ridho Wahyu Pradana    152236035101-424    MLT2C
-Nisfu Asrul Sani               152236035101-119    MLT2C
-Robby Eriend                   152236035101-337    MLT2D
-Samuel Cristian                152236035100-1113   MLT2D
+• Dicky Surya Putra              152236035101-860    MLT2B
+• Nadhiar Ridho Wahyu Pradana    152236035101-424    MLT2C
+• Nisfu Asrul Sani               152236035101-119    MLT2C
+• Robby Eriend                   152236035101-337    MLT2D
+• Samuel Cristian                152236035100-1113   MLT2D
 
 Dataset Description:
 Dari A sampai Z, file data berisi gambar skala 1:1 bahasa isyarat Indonesia.
